@@ -36,21 +36,7 @@ https://github.com/user-attachments/assets/9d618cfe-382e-48fa-b15e-ea63404e0385
 - **ProfileFragment.java**: Manage and view user profile details.
 - **SearchUserFragment.java**: Display search results for users.
 
-## 📸 Screenshots
 
-- Login Screen
-  
-- OTP Verification
-- User Search
-- Chat Interface
-- Profile View
-
-## 📲 Getting Started
-
-1. Clone the repository.
-2. Configure Firebase project and download `google-services.json`.
-3. Enable Firebase Authentication, Firestore, and Storage in Firebase Console.
-4. Build and run the app in Android Studio
 
 This app follows this tutorial: https://www.youtube.com/watch?v=jHH-ZreOs1k
 
