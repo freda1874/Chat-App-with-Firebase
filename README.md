@@ -7,7 +7,8 @@ Easy chat is an Android chat application built with **Firebase** for a seamless,
 
 ## Demo
 
-https://github.com/user-attachments/assets/8b768e50-b545-4913-9d6e-6751e884bb96
+https://github.com/user-attachments/assets/9d618cfe-382e-48fa-b15e-ea63404e0385
+
 
 ## ✨ Features
 
