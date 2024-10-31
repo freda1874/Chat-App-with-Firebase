@@ -5,8 +5,9 @@
 Easy chat is an Android chat application built with **Firebase** for a seamless, real-time messaging experience:
 
 
+# Demo
 
-
+https://github.com/user-attachments/assets/8b768e50-b545-4913-9d6e-6751e884bb96
 
 ## ✨ Features
 
@@ -48,5 +49,7 @@ Easy chat is an Android chat application built with **Firebase** for a seamless,
 1. Clone the repository.
 2. Configure Firebase project and download `google-services.json`.
 3. Enable Firebase Authentication, Firestore, and Storage in Firebase Console.
-4. Build and run the app in Android Studio!
+4. Build and run the app in Android Studio
+
+This app follows this tutorial: https://www.youtube.com/watch?v=jHH-ZreOs1k
 
