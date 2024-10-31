@@ -13,8 +13,7 @@ Easy chat is an Android chat application built with **Firebase** for a seamless,
 | Feature                | Description                                        | Screenshot        |
 |------------------------|----------------------------------------------------|-------------------|
 | **Phone Authentication** | Secure login with OTP verification and resend options. |![otp](https://github.com/user-attachments/assets/d4cb43fa-baac-4ed0-bb2c-ba8dc66c352a)|
-| **Real-time Messaging**  | Powered by Firebase Cloud Firestore.              |
-![chatroom](https://github.com/user-attachments/assets/f31c7ba1-0b84-43bb-9ab6-cfc19cb977bc) |
+| **Real-time Messaging**  | Powered by Firebase Cloud Firestore.              |![chatroom](https://github.com/user-attachments/assets/f31c7ba1-0b84-43bb-9ab6-cfc19cb977bc) |
 | **User Profiles**        | Add and display profile pictures.                 |![changeprofile](https://github.com/user-attachments/assets/8b4cbd0a-9220-43cf-8dd1-4a0f35605767) |
 | **Recent Chats**         | Keep track of ongoing conversations.              | ![chat](https://github.com/user-attachments/assets/61dba2da-3182-472e-9477-a8c5973e5912) |
 
