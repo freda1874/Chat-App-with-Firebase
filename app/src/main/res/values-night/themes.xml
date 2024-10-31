@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EasyChat"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar" >
+        <item name="android:colorPrimary">@color/my_primary</item>
+
+        <item name="android:colorSecondary">@color/my_secondary</item>
+        <item name="android:windowBackground">@color/off_white</item>
+    </style>
+</resources>
